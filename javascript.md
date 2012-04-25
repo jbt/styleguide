@@ -365,3 +365,6 @@ a.css({ display: 'foo' })
 - If you ever use a `with` clause, I will personally come round to your house and punch you in the face.
   - Only one exception: templating functions. Unfortunately `with` is the only way to keep the scope nice. But don't use it ANYWHERE else. EVAR.
 - Never avoid using semicolons. Don't go randomly throwing them in unnecessarily, but always put them in if necessary. Especially after functions assigned to variables, or self-executing functions.
+
+## Did I mention comma-first?
+Well, just don't.
