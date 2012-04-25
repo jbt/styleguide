@@ -135,7 +135,7 @@ someAsynchronousFunction(function(err, result){
 ```
 
 ## Declaring variables
-```javascipt
+```javascript
 // Single variable:
 var a = 0;
 
@@ -189,8 +189,6 @@ function(){
 
   // All the rest of the stuff.
 }
-
-
 ```
 
 ### Logical Shorthands
