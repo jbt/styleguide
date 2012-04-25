@@ -291,7 +291,7 @@ var MyClass = function(){
   // But try to avoid it
 };
 
-// Prototype properties. Only use primitives. Never put objects on the prototype
+// Prototype properties. Only use primitives. Never put objects or arrays on the prototype
 MyClass.prototype.defaultVariableValue = 0;
 // Try to avoid these though. Put them in the constructor.
 
