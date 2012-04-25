@@ -191,7 +191,7 @@ function(){
 }
 ```
 
-### Logical Shorthands
+## Logical Shorthands
 Often conditional statements can be shorthanded using logical `&&` and `||`. They can also be used for variables, for example to provide a default value.
 
 ```javascript
