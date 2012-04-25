@@ -335,6 +335,7 @@ MyInheritingClass.instanceMethod = function(){
 
   // More stuff here...
 };
+```
 
 ## Chaining functions
 jQuery is wonderful; it does chaining. Keep it neat though
